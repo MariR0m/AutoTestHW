@@ -1,0 +1,10 @@
+host: 0.0.0.0
+user: user2
+passwd: '0000'
+folder_in: /home/mari/test/
+folder_user: /home/user2/
+file: p7zip-full
+
+folder_in2: /home/user2/folder_in
+folder_out2: /home/user2/folder_out
+folder_ex2: /home/user2/folder_ex
